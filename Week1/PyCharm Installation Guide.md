@@ -1,4 +1,4 @@
-# PyCharm + Jupyter Notebooks Installation Guide
+# PyCharm Installation Guide
 
 **This guide is for `Windows`, `macOS`, and `Linux` operating systems.**
 
